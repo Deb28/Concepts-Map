@@ -1,0 +1,1 @@
+To run the app go to app-> and then run app-release.apk
